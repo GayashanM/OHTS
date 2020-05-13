@@ -27,6 +27,7 @@ The attack occurs in the following manner:
 First, we need two virtual machines. I am using Kali Linux as my exploitation environment and Windows7 as my victim. 
 
 Then, we need to have a small research on the CVE-2017-8759 for get some idea about the vulnerability.
+
 •	https://github.com/bhdresh/CVE-2017-8759 
 •	https://github.com/nccgroup/CVE-2017-8759 
 •	https://securitytracker.com/id/1039324 
